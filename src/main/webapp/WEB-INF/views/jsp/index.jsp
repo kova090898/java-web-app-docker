@@ -40,8 +40,8 @@
 
 	<div class="row">
 		<div class="col-md-8">
-			<h2>Welcome To Mithun Technologies, Marathahalli, Bengaluru, Inida ,Karnataka.</h2>
-			<h3>Contact @ +91-9980923226,+91-8296242028</h3>
+			<h2>Welcome To Chennai</h2>
+			<h3>Contact @ + kovarthanan</h3>
 		</div>	
 	</div>
 
